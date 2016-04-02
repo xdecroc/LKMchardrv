@@ -1,4 +1,4 @@
-# Simple character driver LKM
+# Simple character device driver LKM
 
 
 See below link to blog for more info
